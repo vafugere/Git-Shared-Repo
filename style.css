@@ -1,0 +1,45 @@
+nav {
+	background-color: #000000;
+}		
+a:link, a:visited {
+	display: inline-block;
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+	font-family: arial;
+	font-size: 2em;
+	padding: 5px;
+}
+a:hover, a:active {
+	background-color: #FFFFFF;
+	color: #000000;
+	text-decoration: none;
+}
+.center {
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+}
+.buy a:link, .buy a:visited {
+	display: inline-block;
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+	font-family: arial;
+	font-size: 1.5em;
+	padding: 5px;
+}
+.buy a:hover, .buy a:active {
+	background-color: #FF0000;
+	color: #000000;
+	text-decoration: none;
+}
+.desc {
+	color: #000000;
+	font-family: georgia;
+	font-size: 1.5em;
+	text-align: center;
+	margin-top: 10px;
+}
